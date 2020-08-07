@@ -15,5 +15,7 @@ int main(int argc, const char * argv[]) {
     ft_putchar('\n');
     ft_print_reverse_alphabet();
     ft_putchar('\n');
+    ft_print_numbers();
+    ft_putchar('\n');
     return 0;
 }

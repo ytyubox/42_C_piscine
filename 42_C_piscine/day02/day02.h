@@ -10,4 +10,5 @@
 #define day02_h
 #include "ft_print_alphabet.h"
 #include "ft_print_reverse_alphabet.h"
+#include "ft_print_numbers.h"
 #endif /* day02_h */
