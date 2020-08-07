@@ -9,5 +9,5 @@
 #ifndef day02_h
 #define day02_h
 #include "ft_print_alphabet.h"
-
+#include "ft_print_reverse_alphabet.h"
 #endif /* day02_h */

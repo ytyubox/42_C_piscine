@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A76A0E7024DCE0EC002AFD61 /* ft_print_alphabet.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E6F24DCE0EC002AFD61 /* ft_print_alphabet.c */; };
+		A76A0E7724DCE271002AFD61 /* ft_print_reverse_alphabet.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E7624DCE271002AFD61 /* ft_print_reverse_alphabet.c */; };
 		A7CCAE2D24DBEFB400C6B8FE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = A7CCAE2C24DBEFB400C6B8FE /* main.c */; };
 		A7CCAE3524DBEFD300C6B8FE /* ft_putchar.c in Sources */ = {isa = PBXBuildFile; fileRef = A7CCAE3424DBEFD300C6B8FE /* ft_putchar.c */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,8 @@
 		A76A0E6E24DCE0EC002AFD61 /* ft_print_alphabet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ft_print_alphabet.h; sourceTree = "<group>"; };
 		A76A0E6F24DCE0EC002AFD61 /* ft_print_alphabet.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ft_print_alphabet.c; sourceTree = "<group>"; };
 		A76A0E7124DCE1E3002AFD61 /* day02.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = day02.h; sourceTree = "<group>"; };
+		A76A0E7524DCE271002AFD61 /* ft_print_reverse_alphabet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ft_print_reverse_alphabet.h; sourceTree = "<group>"; };
+		A76A0E7624DCE271002AFD61 /* ft_print_reverse_alphabet.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ft_print_reverse_alphabet.c; sourceTree = "<group>"; };
 		A7CCAE2924DBEFB400C6B8FE /* 42_C_piscine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 42_C_piscine; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CCAE2C24DBEFB400C6B8FE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		A7CCAE3324DBEFD300C6B8FE /* ft_putchar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ft_putchar.h; sourceTree = "<group>"; };
@@ -59,6 +62,7 @@
 			children = (
 				A76A0E7124DCE1E3002AFD61 /* day02.h */,
 				A76A0E7324DCE237002AFD61 /* ex00 */,
+				A76A0E7424DCE256002AFD61 /* ex01 */,
 			);
 			path = day02;
 			sourceTree = "<group>";
@@ -70,6 +74,15 @@
 				A76A0E6F24DCE0EC002AFD61 /* ft_print_alphabet.c */,
 			);
 			path = ex00;
+			sourceTree = "<group>";
+		};
+		A76A0E7424DCE256002AFD61 /* ex01 */ = {
+			isa = PBXGroup;
+			children = (
+				A76A0E7524DCE271002AFD61 /* ft_print_reverse_alphabet.h */,
+				A76A0E7624DCE271002AFD61 /* ft_print_reverse_alphabet.c */,
+			);
+			path = ex01;
 			sourceTree = "<group>";
 		};
 		A7CCAE2024DBEFB400C6B8FE = {
@@ -156,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CCAE2D24DBEFB400C6B8FE /* main.c in Sources */,
+				A76A0E7724DCE271002AFD61 /* ft_print_reverse_alphabet.c in Sources */,
 				A7CCAE3524DBEFD300C6B8FE /* ft_putchar.c in Sources */,
 				A76A0E7024DCE0EC002AFD61 /* ft_print_alphabet.c in Sources */,
 			);
