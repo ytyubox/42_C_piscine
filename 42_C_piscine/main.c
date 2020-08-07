@@ -23,5 +23,7 @@ int main(int argc, const char * argv[]) {
     ft_putchar('\n');
     ft_print_comb();
     ft_putchar('\n');
+    ft_print_comb2();
+    ft_putchar('\n');
     return 0;
 }

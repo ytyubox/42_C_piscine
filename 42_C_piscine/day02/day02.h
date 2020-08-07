@@ -13,4 +13,5 @@
 #include "ft_print_numbers.h"
 #include "ft_is_negative.h"
 #include "ft_print_comb.h"
+#include "ft_print_comb2.h"
 #endif /* day02_h */
