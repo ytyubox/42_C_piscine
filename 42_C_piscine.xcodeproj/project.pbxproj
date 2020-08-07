@@ -78,6 +78,7 @@
 				A76A0E7824DCE333002AFD61 /* ex02 */,
 				A76A0E7C24DCE3F0002AFD61 /* ex03 */,
 				A76A0E8024DCE4D4002AFD61 /* ex04 */,
+				A76A0E8424DCEEDF002AFD61 /* ex05 */,
 			);
 			path = day02;
 			sourceTree = "<group>";
@@ -157,7 +158,6 @@
 			children = (
 				A7CCAE2C24DBEFB400C6B8FE /* main.c */,
 				A76A0E7224DCE228002AFD61 /* day02 */,
-				A76A0E8424DCEEDF002AFD61 /* ex05 */,
 				A76A0E6D24DCE09C002AFD61 /* ftlib */,
 			);
 			path = 42_C_piscine;
