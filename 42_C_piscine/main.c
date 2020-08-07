@@ -17,5 +17,9 @@ int main(int argc, const char * argv[]) {
     ft_putchar('\n');
     ft_print_numbers();
     ft_putchar('\n');
+    ft_is_negative(1);
+    ft_is_negative(0);
+    ft_is_negative(-1);
+    ft_putchar('\n');
     return 0;
 }
