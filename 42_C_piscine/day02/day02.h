@@ -15,4 +15,5 @@
 #include "ft_print_comb.h"
 #include "ft_print_comb2.h"
 #include "ft_putnbr.h"
+#include "ft_print_combn.h"
 #endif /* day02_h */

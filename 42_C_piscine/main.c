@@ -36,5 +36,9 @@ int main(int argc, const char * argv[]) {
     ft_putchar('\n');
     ft_putnbr(0);
     ft_putchar('\n');
+    for (int combon = 1; combon < 10 ; combon++) {
+        ft_print_combn(combon);
+        ft_putchar('\n');
+    }
     return 0;
 }
