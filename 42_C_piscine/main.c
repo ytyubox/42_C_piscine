@@ -6,10 +6,11 @@
 //  Copyright © 2020 游宗諭. All rights reserved.
 //
 
-#include <stdio.h>
 
+#include "ft_putchar.h"
+#include "day02.h"
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    ft_print_alphabet();
     return 0;
 }
