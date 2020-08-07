@@ -15,6 +15,7 @@
 		A76A0E8724DCEEEE002AFD61 /* ft_print_comb2.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E8624DCEEEE002AFD61 /* ft_print_comb2.c */; };
 		A76A0E8B24DCF3AE002AFD61 /* ft_putnbr.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E8A24DCF3AE002AFD61 /* ft_putnbr.c */; };
 		A76A0E8F24DCF878002AFD61 /* ft_print_combn.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E8E24DCF878002AFD61 /* ft_print_combn.c */; };
+		A76A0E9124DD07DA002AFD61 /* day02.c in Sources */ = {isa = PBXBuildFile; fileRef = A76A0E9024DD07DA002AFD61 /* day02.c */; };
 		A7CCAE2D24DBEFB400C6B8FE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = A7CCAE2C24DBEFB400C6B8FE /* main.c */; };
 		A7CCAE3524DBEFD300C6B8FE /* ft_putchar.c in Sources */ = {isa = PBXBuildFile; fileRef = A7CCAE3424DBEFD300C6B8FE /* ft_putchar.c */; };
 /* End PBXBuildFile section */
@@ -49,6 +50,7 @@
 		A76A0E8A24DCF3AE002AFD61 /* ft_putnbr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ft_putnbr.c; sourceTree = "<group>"; };
 		A76A0E8D24DCF878002AFD61 /* ft_print_combn.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ft_print_combn.h; sourceTree = "<group>"; };
 		A76A0E8E24DCF878002AFD61 /* ft_print_combn.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ft_print_combn.c; sourceTree = "<group>"; };
+		A76A0E9024DD07DA002AFD61 /* day02.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = day02.c; sourceTree = "<group>"; };
 		A7CCAE2924DBEFB400C6B8FE /* 42_C_piscine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 42_C_piscine; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CCAE2C24DBEFB400C6B8FE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		A7CCAE3324DBEFD300C6B8FE /* ft_putchar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ft_putchar.h; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				A76A0E7124DCE1E3002AFD61 /* day02.h */,
+				A76A0E9024DD07DA002AFD61 /* day02.c */,
 				A76A0E7324DCE237002AFD61 /* ex00 */,
 				A76A0E7424DCE256002AFD61 /* ex01 */,
 				A76A0E7824DCE333002AFD61 /* ex02 */,
@@ -251,6 +254,7 @@
 				A76A0E8324DCE4E1002AFD61 /* ft_print_comb.c in Sources */,
 				A76A0E7724DCE271002AFD61 /* ft_print_reverse_alphabet.c in Sources */,
 				A76A0E8B24DCF3AE002AFD61 /* ft_putnbr.c in Sources */,
+				A76A0E9124DD07DA002AFD61 /* day02.c in Sources */,
 				A7CCAE3524DBEFD300C6B8FE /* ft_putchar.c in Sources */,
 				A76A0E7B24DCE34A002AFD61 /* ft_print_numbers.c in Sources */,
 				A76A0E7F24DCE409002AFD61 /* ft_is_negative.c in Sources */,
