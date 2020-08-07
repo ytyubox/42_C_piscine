@@ -12,4 +12,5 @@
 #include "ft_print_reverse_alphabet.h"
 #include "ft_print_numbers.h"
 #include "ft_is_negative.h"
+#include "ft_print_comb.h"
 #endif /* day02_h */

@@ -9,5 +9,5 @@
 #include "ft_putchar.h"
 #include <unistd.h>
 void ft_putchar(char c) {
-    write(1,&c,1);
+    write(STDOUT_FILENO,&c,1);
 }
