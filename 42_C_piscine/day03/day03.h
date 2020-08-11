@@ -9,6 +9,8 @@
 #ifndef day03_h
 #define day03_h
 #include "ft_ft.h"
+#include "ft_ultimate_ft.h"
+#include "ft_swap.h"
 void test_day03(void);
 
 #endif /* day03_h */

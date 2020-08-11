@@ -13,4 +13,9 @@ void test_day03(void) {
     ft_ft(&nbr);
     printf("%d",nbr);
     ft_putchar('\n');
+    int a = 1;
+    int b = 2;
+    ft_swap(&a, &b);
+    printf("%d,%d",a,b);
+    ft_putchar('\n');
 }
