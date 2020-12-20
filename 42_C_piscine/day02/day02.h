@@ -8,13 +8,13 @@
 
 #ifndef day02_h
 #define day02_h
-#include "ft_print_alphabet.h"
-#include "ft_print_reverse_alphabet.h"
-#include "ft_print_numbers.h"
-#include "ft_is_negative.h"
-#include "ft_print_comb.h"
-#include "ft_print_comb2.h"
-#include "ft_putnbr.h"
-#include "ft_print_combn.h"
+#include "ex00/ft_print_alphabet.h"
+#include "ex01/ft_print_reverse_alphabet.h"
+#include "ex02/ft_print_numbers.h"
+#include "ex03/ft_is_negative.h"
+#include "ex04/ft_print_comb.h"
+#include "ex05/ft_print_comb2.h"
+#include "ex06/ft_putnbr.h"
+#include "ex07/ft_print_combn.h"
 void test_day02(void);
 #endif /* day02_h */

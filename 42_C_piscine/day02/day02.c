@@ -7,7 +7,7 @@
     //
 
 #include <limits.h>
-#include "ft_putchar.h"
+#include "../ftlib/ft_putchar.h"
 #include "day02.h"
 void test_day02(void) {
     ft_print_alphabet();
